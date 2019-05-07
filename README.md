@@ -1,6 +1,6 @@
 # furniture_app_ui
 
-![Image description](https://i.ibb.co/mvghYgn/Screenshot-20190507-224756.jpg)
+![Image description](https://i.ibb.co/bKRb44p/Screenshot-20190507-230143.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
